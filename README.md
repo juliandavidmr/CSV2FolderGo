@@ -1,6 +1,6 @@
 # CSV2FolderGo
 
-Leer CSV y generar automáticamente directorios con los datos de una columna del archivo.
+Leer CSV y generar automáticamente directorios con los datos de una columna del archivo, tambien permite tomar una columna del CSV que contiene links de Google Drive y descargar los archivos.
 
 ### Ejecutar
 
